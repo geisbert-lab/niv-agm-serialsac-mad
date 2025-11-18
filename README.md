@@ -1,6 +1,6 @@
 # Transcriptomic analysis for *Progression of Nipah virus infection in African green monkeys: role of macrophages and dendritic cells in early virus spread*
 
-> This manuscript was submitted for review to Cell Reports (`CELL-REPORTS-D-25-07505`) o 17-Nov-25.
+> This manuscript was submitted for review to Cell Reports (`CELL-REPORTS-D-25-07505`) on 17-Nov-25.
 
 ## Data availability
 
