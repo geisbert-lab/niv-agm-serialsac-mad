@@ -1,0 +1,1461 @@
+﻿Type,Name,DPI3,DPI4,DPI5
+Upstream,HNF1A,6.662,7.525,6.657
+Functional,Transport of molecule,6.524,7.374,6.672
+Functional,Size of body,,6.96,5.399
+Upstream,HNF4A,6.242,5.885,6.026
+Canonical,DHCR24 Signaling Pathway,5.292,5.568,5.477
+Functional,Fatty acid metabolism,5.056,5.509,4.879
+Functional,Engulfment of cells,4.336,5.451,4.87
+Functional,Endocytosis,3.84,5.345,4.75
+Upstream,LHX1,4.597,5.29,4.642
+Upstream,interferon alpha,3.472,5.163,4.695
+Upstream,NONO,4.202,5.148,4.952
+Canonical,LXR/RXR Activation,4.914,5.112,5.014
+Canonical,Complement cascade,4.472,5.099,4.69
+Canonical,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by IGFBPs,4.359,5.099,4.472
+Upstream,PRL,3.988,5.072,4.875
+Upstream,CHROMR,3.704,5.043,4.843
+Functional,Endocytosis by eukaryotic cells,4.032,4.99,4.57
+Upstream,STING1,3.799,4.973,4.788
+Upstream,IFNA2,4.377,4.969,4.91
+Upstream,IFN beta,3.976,4.939,4.65
+Functional,Cell movement,,4.876,4.074
+Upstream,STAT1,3.906,4.87,4.475
+Upstream,IFNL1,4.044,4.816,4.719
+Upstream,IRF7,4.023,4.777,4.676
+Functional,Migration of cells,,4.693,4.006
+Canonical,Post-translational protein phosphorylation,4,4.69,4.123
+Upstream,IL27,3.526,4.652,4.346
+Functional,Activation of cells,2.367,4.586,3.704
+Upstream,SMARCAL1,3.873,4.583,4.123
+Upstream,CEBPB,4.19,4.541,4.144
+Upstream,IFN type 1,3.504,4.465,4.357
+Upstream,IFNG,3.34,4.44,4.399
+Functional,Transport of lipid,4.269,4.438,4.038
+Upstream,RIPK2,3.3,4.426,4.2
+Functional,Engulfment of blood cells,3.214,4.383,3.854
+Canonical,Response to elevated platelet cytosolic Ca2+,4.359,4.359,4.359
+Canonical,"Plasma lipoprotein assembly, remodeling, and clearance",3.873,4.359,4.123
+Canonical,"Transport of bile salts and organic acids, metal ions and amine compounds",3.873,4.359,4
+Functional,Internalization of cells,3.265,4.292,3.852
+Upstream,MAVS,2.934,4.258,3.774
+Upstream,IRF3,3.517,4.252,4.134
+Functional,Immune response of cells,3.153,4.246,3.923
+Functional,Coordination,,4.244,
+Upstream,RNY3,3.606,4.243,4.243
+Upstream,SPI1,3.45,4.221,3.86
+Functional,Chemotaxis of leukocytes,,4.206,3.468
+Functional,Engulfment of leukocytes,,4.154,
+Canonical,Atherosclerosis Signaling,3.873,4.123,3.873
+Canonical,Transport of inorganic cations/anions and amino acids/oligopeptides,3.317,4.123,3.464
+Upstream,IFNAR1,3.06,4.101,3.863
+Upstream,NFkB (complex),3.828,4.078,3.697
+Upstream,TLR9,3.25,4.047,3.794
+Functional,Phagocytosis of blood cells,3.034,4.036,3.689
+Upstream,IGF1,,4.03,2.463
+Functional,Secretion of molecule,4.145,4.017,3.824
+Functional,Engulfment of myeloid cells,,4.014,3.668
+Canonical,Interferon alpha/beta signaling,3.317,4,4
+Canonical,Neutrophil degranulation,3.162,4,3.606
+Upstream,TGM2,3,4,3.742
+Canonical,Synaptogenesis Signaling Pathway,2.646,4,2.236
+Upstream,MYD88,3.092,3.998,3.495
+Functional,Release of lipid,3.101,3.957,3.598
+Functional,Export of molecule,3.418,3.944,3.241
+Functional,Engulfment of phagocytes,3.067,3.931,3.578
+Functional,Phagocytosis of cells,3.212,3.919,3.844
+Upstream,RIGI,2.922,3.886,3.503
+Canonical,G alpha (i) signalling events,2.646,3.873,3
+Functional,Activation of blood cells,1.86,3.84,3.163
+Upstream,TNIK,3.283,3.835,3.835
+Upstream,APP,3.499,3.827,3.582
+Functional,Phagocytosis of leukocytes,,3.786,3.417
+Upstream,IL1A,,3.775,3.35
+Upstream,IRF1,3.144,3.77,3.77
+Functional,Activation of leukocytes,1.657,3.762,3.012
+Functional,Phagocytosis,2.88,3.748,
+Functional,Transport of carboxylic acid,3.612,3.743,3.353
+Canonical,Ion channel transport,2.646,3.742,2.646
+Upstream,SMARCA4,3.293,3.738,
+Functional,Transport of amino acids,2.945,3.671,3.24
+Functional,Phagocytosis of myeloid cells,2.878,3.651,3.393
+Upstream,HNF1B,2.729,3.637,2.729
+Upstream,TCF7L2,2.217,3.612,2.577
+Upstream,SMARCB1,3.317,3.606,3.464
+Canonical,Class A/1 (Rhodopsin-like receptors),2.828,3.606,3.162
+Canonical,Multiple Sclerosis Signaling Pathway,2.449,3.606,3.317
+Upstream,CGAS,3.575,3.575,3.575
+Functional,Phagocytosis of phagocytes,2.878,3.561,3.296
+Functional,Metabolism of nucleic acid component or derivative,3.398,3.549,2.831
+Upstream,PKD1,3.9,3.545,3.9
+Upstream,TLR3,3.095,3.537,3.537
+Upstream,IFNB1,3.002,3.537,3.729
+Upstream,IFNA1/IFNA13,2.925,3.524,3.394
+Upstream,CHUK,2.795,3.498,2.9
+Upstream,ARNT2,3.317,3.464,3.464
+Upstream,IL20,3.317,3.464,3.317
+Canonical,Formation of Fibrin Clot (Clotting Cascade),3.162,3.464,3.317
+Canonical,Docosahexaenoic Acid (DHA) Signaling,2.449,3.464,2.449
+Functional,Inflammatory response,1.622,3.454,2.697
+Functional,Chemotaxis of phagocytes,2.776,3.448,2.877
+Upstream,CEBPA,3.324,3.434,3.444
+Functional,Transport of nitrogenous base,3.267,3.415,2.957
+Functional,Translocation of lipid,3.278,3.413,3.113
+Functional,Transport of steroid,3.338,3.395,3.049
+Upstream,IRF9,2.942,3.39,3.39
+Functional,Osmolality of urine,2.76,3.386,2.76
+Functional,Immune response of leukocytes,2.277,3.386,2.928
+Functional,Activation of myeloid cells,1.885,3.378,3.008
+Functional,Cell movement of phagocytes,2.273,3.376,3.159
+Functional,Engulfment of antigen presenting cells,2.726,3.372,2.961
+Upstream,IFN,2.18,3.369,3.229
+Upstream,FOXC1,2.887,3.357,3.606
+Upstream,AGT,1.823,3.318,2.676
+Canonical,Phase II - Conjugation of compounds,3,3.317,3
+Canonical,Neurovascular Coupling Signaling Pathway,2.646,3.317,2.449
+Upstream,SLC15A4,2.433,3.302,3.302
+Functional,Synthesis of lipid,2.411,3.298,2.185
+Upstream,THRA,,3.286,2.728
+Upstream,TNF,2.598,3.267,3.642
+Functional,Development of neurons,,3.263,
+Upstream,TLR7,2.768,3.255,3.255
+Functional,Flux of lipid,3.055,3.211,3.055
+Canonical,Pathogen Induced Cytokine Storm Signaling Pathway,2.449,3.207,2.828
+Upstream,AHR,1.532,3.204,2.577
+Upstream,p38 MAPK,,3.204,
+Upstream,ERK1/2,2.646,3.2,2.339
+Functional,Immune response of myeloid cells,2.563,3.198,3.114
+Upstream,EGF,2.032,3.193,1.91
+Functional,Quantity of metal ion,1.8,3.193,2.485
+Functional,Activation of antigen presenting cells,2.28,3.184,3.092
+Upstream,PPARD,2.424,3.176,2.67
+Upstream,ADAM10,3,3.162,3.162
+Canonical,Production of Nitric Oxide and Reactive Oxygen Species in Macrophages,3.051,3.153,3.051
+Functional,Uptake of lipid,1.973,3.15,2.018
+Upstream,IFNL4,2.4,3.12,3.12
+Upstream,Immunoglobulin,1.821,3.109,1.964
+Upstream,EIF2AK2,2.6,3.106,2.946
+Upstream,EPAS1,,3.098,2.387
+Upstream,PIM1,3.12,3.086,2.594
+Functional,Immune response of phagocytes,2.559,3.085,2.996
+Functional,Activation of phagocytes,1.662,3.079,2.746
+Upstream,CREB1,,3.078,2.45
+Functional,Activation of macrophages,2.192,3.073,3.06
+Functional,Quantity of Ca2+,2.4,3.071,2.82
+Upstream,CTNNB1,2.61,3.069,2.771
+Functional,Metabolism of membrane lipid derivative,2.27,3.058,2.63
+Upstream,IFNA4,2.352,3.057,2.89
+Upstream,EZH2,2.418,3.056,3.12
+Upstream,KDM6A,2.892,3.055,2.742
+Upstream,SIM1,3.434,3.039,3.576
+Functional,Metabolism of nucleotide,3.251,3.025,2.221
+Functional,Synthesis of nucleotide,,3.025,2.221
+Functional,Synthesis of reactive oxygen species,1.414,3.014,1.632
+Upstream,LDL,2.695,3.01,3.952
+Canonical,Bile acid and bile salt metabolism,3.162,3,2.828
+Canonical,Retinoid metabolism and transport,2.828,3,3
+Upstream,PAF1,2.449,3,3
+Canonical,Binding and Uptake of Ligands by Scavenger Receptors,2.449,3,2.828
+Canonical,Cell surface interactions at the vascular wall,2.236,3,2.449
+Canonical,Clathrin-mediated endocytosis,2,3,2
+Canonical,SNARE Signaling Pathway,,3,
+Upstream,CG,,2.952,2.542
+Functional,Complement activation,2.63,2.95,2.778
+Upstream,USF2,2.437,2.944,2.608
+Upstream,TICAM1,2.399,2.942,2.942
+Upstream,SP1,,2.933,
+Upstream,IRF5,2.579,2.931,2.931
+Functional,Antimicrobial response,2,2.926,2.63
+Upstream,CREB,,2.924,2.375
+Upstream,IL17A,,2.922,
+Functional,Uptake of carbohydrate,2.252,2.917,2.713
+Upstream,ASCL1,2.395,2.915,2.178
+Upstream,mir-96,2.72,2.891,2.72
+Upstream,mir-183,2.714,2.887,2.714
+Upstream,EHMT1,,2.887,1.89
+Functional,Metabolism of reactive oxygen species,1.414,2.883,1.632
+Upstream,PPARGC1A,1.666,2.864,1.846
+Functional,Cellular homeostasis,1.964,2.858,3.032
+Canonical,Phase I - Functionalization of compounds,2.828,2.828,2.828
+Upstream,JAK,2.646,2.828,2.828
+Canonical,Intrinsic Prothrombin Activation Pathway,2.646,2.828,2.828
+Canonical,Aspirin ADME,2.646,2.828,2.646
+Upstream,RRAS2,2.449,2.828,2.449
+Canonical,Peroxisomal protein import,2.449,2.828,2.449
+Upstream,MKNK1,2,2.828,2.433
+Upstream,ZBTB10,,2.828,2.646
+Upstream,MEF2C,,2.828,
+Functional,Efflux of lipid,2.782,2.814,2.639
+Upstream,PTN,2.236,2.813,2.449
+Upstream,GCG,2.219,2.808,2.067
+Functional,Transport of pyrimidine base,2.621,2.804,2.224
+Functional,Leukocyte migration,1.903,2.796,3.14
+Upstream,IFNE,2.449,2.795,2.795
+Upstream,TERT,,2.791,2.607
+Functional,Quantity of K+,2,2.778,2.19
+Upstream,NFATC1,,2.778,2.186
+Functional,Quantity of neurons,,2.778,
+Functional,Metabolism of amino acids,2.592,2.772,2.592
+Upstream,GPER1,,2.772,2.236
+Functional,Transport of fatty acid,2.582,2.769,2.582
+Upstream,CREB3L3,2.766,2.766,2.766
+Upstream,TWIST1,2.728,2.76,3.487
+Functional,Antiviral response,2,2.755,2.63
+Functional,Internalization of bacteria,1.938,2.735,2.548
+Upstream,NFKB1,2.156,2.732,3.08
+Functional,Metabolism of protein,1.608,2.728,2.089
+Upstream,JUN,,2.723,2.845
+Functional,Stimulation of cells,,2.719,
+Upstream,IL21,2.449,2.715,1.89
+Upstream,BTK,2.449,2.714,2.714
+Upstream,YTHDC2,2.333,2.714,2.714
+Functional,Cell movement of antigen presenting cells,,2.697,2.609
+Functional,Biosynthesis of cyclic nucleotides,2.935,2.661,2.053
+Canonical,Glyoxylate metabolism and glycine degradation,2.646,2.646,2.646
+Canonical,G alpha (q) signalling events,2.236,2.646,2
+Canonical,G alpha (s) signalling events,2.236,2.646,2
+Canonical,Role of MAPK Signaling in Promoting the Pathogenesis of Influenza,2.236,2.646,2
+Upstream,TASL,2,2.646,2.646
+Upstream,FBN1,2,2.646,2.646
+Upstream,SLCO1C1,2,2.646,2.236
+Canonical,Iron uptake and transport,2,2.646,2.236
+Canonical,Xenobiotic Metabolism PXR Signaling Pathway,2,2.646,2
+Canonical,Xenobiotic Metabolism CAR Signaling Pathway,2,2.646,2
+Canonical,Class B/2 (Secretin family receptors),2,2.646,
+Canonical,Cargo recognition for clathrin-mediated endocytosis,,2.646,2
+Canonical,Metabolism of Angiotensinogen to Angiotensins,,2.646,2
+Upstream,SIX2,,2.646,
+Canonical,Membrane Repair Signaling Pathway,,2.646,
+Canonical,Cardiac conduction,,2.646,
+Canonical,GABAergic Receptor Signaling Pathway (Enhanced),,2.646,
+Functional,Relapsed multiple sclerosis,,2.63,
+Functional,Flux of cholesterol,2.296,2.629,2.452
+Upstream,PPARA:RXRA Coactivator,2.621,2.621,2.97
+Upstream,NCOA2,2.062,2.616,2.542
+Functional,Formation of cell-cell contacts,,2.615,
+Functional,Formation of intercellular junctions,,2.615,
+Upstream,STAT3/STAT3,2.613,2.613,2.613
+Upstream,IFNA8,1.977,2.611,2.428
+Functional,Cell movement of neutrophils,1.936,2.609,2.403
+Upstream,HNF4α dimer,2.4,2.6,2.4
+Upstream,IFNA16,1.961,2.598,2.412
+Functional,Formation of plasma membrane,,2.596,
+Upstream,IL12 (complex),,2.579,1.98
+Upstream,HSPA5,1.951,2.575,2.401
+Upstream,IL18,,2.574,
+Upstream,FXR/RXRα/FXR ligand/retinoic acid,2.371,2.568,2.158
+Functional,Transport of phospholipid,2.566,2.566,2.372
+Upstream,IFNAR,2.408,2.561,2.949
+Upstream,STAT2,2.352,2.556,2.556
+Upstream,CREBBP,2.579,2.555,2.927
+Functional,Metabolism of acylglycerol,1.92,2.547,2.379
+Upstream,HUWE1,1.765,2.535,1.765
+Functional,Development of central nervous system,,2.534,
+Functional,Quantity of metal,1.041,2.532,1.876
+Functional,Quantity of cells,1.09,2.528,1.984
+Functional,Cell movement of myeloid cells,1.351,2.505,2.325
+Functional,Cell movement of leukocytes,1.549,2.501,2.719
+Canonical,Glutaminergic Receptor Signaling Pathway (Enhanced),2.333,2.5,2.828
+Functional,Catabolism of protein,1.102,2.5,1.71
+Functional,Catabolism of macromolecule,,2.5,
+Upstream,OSM,2.238,2.491,2.108
+Functional,Biosynthesis of carboxylic acid,1.876,2.491,2.108
+Upstream,SHH,,2.486,
+Functional,Coagulation of blood,2.187,2.467,2.566
+Upstream,IL15,,2.467,
+Functional,Soft tissue lesion,1.497,2.465,2.426
+Upstream,JAK1,2.449,2.449,2.449
+Upstream,HMGN3,2.449,2.449,2.449
+Upstream,SASH1,2.236,2.449,2.449
+Upstream,Samsn1,2.236,2.449,2.449
+Upstream,SENP3,2.236,2.449,2.449
+Canonical,ISG15 antiviral mechanism,2.236,2.449,2.449
+Canonical,Role of JAK family kinases in IL-6-type Cytokine Signaling,2.236,2.449,2.236
+Canonical,Glycine Betaine Degradation,2.236,2.449,2.236
+Canonical,Neurotransmitter release cycle,2.236,2.449,2
+Canonical,Metabolism of porphyrins,2,2.449,2.236
+Canonical,Role of Pattern Recognition Receptors in Recognition of Bacteria and Viruses,,2.449,2.236
+Upstream,CYLD-AS1,,2.449,2
+Canonical,Tryptophan catabolism,,2.449,2
+Canonical,Metabolism of water-soluble vitamins and cofactors,,2.449,2
+Functional,Uptake of glycosides,,2.449,
+Upstream,IFT88,,2.449,
+Canonical,Kinesins,,2.449,
+Upstream,FAM222A,2.224,2.438,2.438
+Functional,Metabolism of carbohydrate,2.669,2.437,2.881
+Upstream,PML,2.514,2.426,2.154
+Functional,Quantity of hdl cholesterol in blood,2.572,2.425,2.231
+Upstream,TRAF3IP2,1.982,2.425,2.213
+Upstream,MLX,,2.425,
+Upstream,TPH1,,2.425,
+Upstream,NR1H4,2.127,2.422,1.853
+Upstream,PXR/RXRA/pxr ligand/retinoic acid,2.434,2.42,1.981
+Functional,Transport of bile salt,2.414,2.42,1.969
+Functional,Response of macrophages,2.04,2.42,2.106
+Functional,Transport of drug,1.994,2.42,
+Functional,Assembly of intercellular junctions,,2.42,
+Upstream,BCL2,,2.415,
+Upstream,NTRK2,,2.414,
+Upstream,NFIC,,2.414,
+Functional,Oxidation of amino acids,1.969,2.412,
+Upstream,FOS,1.183,2.412,0.972
+Upstream,IFNA6,,2.412,2.214
+Upstream,IFNA14,,2.412,2.214
+Upstream,IFNA5,,2.412,2.214
+Upstream,IFNA7,,2.412,2.214
+Upstream,IFNA10,,2.412,2.214
+Functional,Retinal vasculopathy,,2.411,1.967
+Functional,Catabolism of lipid,2.287,2.409,2.47
+Upstream,IFNA21,,2.409,2.211
+Functional,Binding of carbohydrate,2.759,2.408,2.368
+Upstream,MLXIPL,2.183,2.4,2.183
+Upstream,MTTP,2.199,2.394,2.394
+Upstream,EGR1,,2.39,
+Functional,Transport of bile acid,2.576,2.388,2.388
+Upstream,NKX2-1,2.18,2.374,2.374
+Functional,Cell movement of macrophages,,2.374,2.407
+Upstream,TAC1,2.219,2.371,2.371
+Upstream,SLC16A2,1.432,2.36,1.937
+Upstream,IL36G,,2.359,1.915
+Functional,Cell movement of mononuclear leukocytes,,2.354,2.498
+Functional,Learning,,2.35,
+Functional,Efflux of phospholipid,2.132,2.345,2.132
+Upstream,ZIC2,,2.345,
+Upstream,TYK2,1.729,2.34,1.892
+Canonical,Regulation of lipid metabolism by PPARalpha,2.121,2.333,2.714
+Functional,Efflux of cholesterol,2.133,2.326,2.133
+Upstream,HMGB1,1.67,2.319,1.904
+Functional,Response of myeloid leukocytes,1.699,2.313,2.364
+Upstream,ANGPT2,,2.302,2.407
+Functional,Synthesis of fatty acid,2.102,2.29,2.177
+Upstream,SREBF1,1.366,2.278,1.598
+Functional,Neurogenic lesion,1.497,2.273,2.225
+Functional,Brain lesion,1.497,2.273,2.225
+Upstream,ESRRA,2.309,2.265,2.364
+Upstream,LIF,1.839,2.26,2.399
+Upstream,FOXO1,1.981,2.257,2.567
+Upstream,NAMPT,,2.248,1.767
+Functional,Metabolism of macromolecule,,2.244,1.144
+Upstream,NR1H,1.761,2.241,1.86
+Functional,Uptake of digoxin,2.236,2.236,2.236
+Upstream,NDRG1,2.236,2.236,2.236
+Canonical,Regulation of TLR by endogenous ligand,2.236,2.236,2.236
+Canonical,Amyloid fiber formation,2.236,2.236,2.236
+Canonical,Passive transport by Aquaporins,2.236,2.236,2
+Canonical,Integrin cell surface interactions,2.236,2.236,2
+Canonical,"Transport of vitamins, nucleosides, and related molecules",2.236,2.236,
+Upstream,DOCK8,2,2.236,2.236
+Canonical,Nucleotide catabolism,2,2.236,2.236
+Canonical,Metabolism of steroid hormones,2,2.236,2.236
+Canonical,Glucose metabolism,2,2.236,2.236
+Canonical,MSP-RON Signaling in Cancer Cells Pathway,2,2.236,2.236
+Upstream,H1-6,2,2.236,2
+Upstream,H1-1,2,2.236,2
+Upstream,FASN,2,2.236,2
+Canonical,ABC-family proteins mediated transport,2,2.236,2
+Canonical,Arachidonic acid metabolism,2,2.236,2
+Canonical,Atorvastatin ADME,2,2.236,2
+Canonical,"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",2,2.236,2
+Canonical,Visual phototransduction,2,2.236,2
+Functional,Translocation of organic anion,2,2.236,
+Functional,Transport of rosuvastatin,2,2.236,
+Canonical,Nephron development,2,2.236,
+Functional,Immune response of neutrophils,1.685,2.236,2.282
+Upstream,ORMDL3,,2.236,2.236
+Canonical,Interferon gamma signaling,,2.236,2.236
+Upstream,FADD,,2.236,2
+Upstream,JAK1/2,,2.236,2
+Canonical,"GABA synthesis, release, reuptake and degradation",,2.236,2
+Upstream,FEV,,2.236,
+Canonical,3-phosphoinositide Degradation,,2.236,
+Canonical,Degradation of the extracellular matrix,,2.236,
+Canonical,Regulation of beta-cell development,,2.236,
+Canonical,Neurexins and neuroligins,,2.236,
+Canonical,"D-myo-inositol (1,4,5,6)-Tetrakisphosphate Biosynthesis",,2.236,
+Canonical,Abacavir ADME,,2.236,
+Canonical,"D-myo-inositol (3,4,5,6)-tetrakisphosphate Biosynthesis",,2.236,
+Canonical,D-myo-inositol-5-phosphate Metabolism,,2.236,
+Upstream,PHF21A,,2.231,
+Functional,Binding of polysaccharide,2.58,2.23,2.175
+Upstream,USP7,,2.224,
+Functional,Ion homeostasis of cells,1.282,2.222,2.135
+Functional,Cell movement of granulocytes,2.003,2.22,2.129
+Functional,Immune response of macrophages,1.81,2.22,1.884
+Functional,Translocation of bile salt,2.213,2.219,
+Upstream,STAT5A,2,2.219,2
+Upstream,ELAVL3,,2.219,
+Upstream,HDAC4,1.98,2.216,1.98
+Upstream,MTORC1,,2.216,
+Functional,Transport of purine base,2.213,2.213,2.213
+Upstream,VCAN,2.547,2.209,1.886
+Functional,Development of gap junctions,,2.208,
+Functional,Infection by coronavirus,,2.208,
+Functional,Metabolism of triacylglycerol,1.472,2.204,2.02
+Functional,Secretion of lipid,2.955,2.2,2.229
+Functional,Uptake of salicylic acid,2.2,2.2,2.2
+Functional,Uptake of indomethacin,2.2,2.2,2.2
+Upstream,TCF1/3/4,2.2,2.2,2.2
+Upstream,ISGF3,2.2,2.2,2.2
+Functional,Synthesis of amino acids,1.982,2.2,1.982
+Upstream,T3/TR/RXR,,2.2,
+Functional,Intrathoracic organ tumor,2.184,2.198,2.577
+Functional,Thoracic neoplasm,,2.198,
+Functional,Transport of cation,2.609,2.195,2.492
+Upstream,RARG,,2.19,
+Upstream,IFIH1,2.176,2.189,2.575
+Functional,Efflux of amino acids,2.186,2.186,2.186
+Upstream,POU3F3,2.186,2.186,2.186
+Functional,Mood disorders,,2.186,
+Functional,Depressive disorder,,2.186,
+Upstream,TBX21,,2.186,
+Upstream,RARA,1.491,2.185,1.27
+Functional,Transport of vesicles,,2.174,
+Upstream,NOS2,1.633,2.172,1.914
+Functional,Activation of endothelial cells,,2.168,1.933
+Upstream,MAP3K7,1.969,2.163,2.562
+Upstream,TBK1,2.125,2.161,2.161
+Upstream,PPP3R1,1.718,2.159,1.948
+Upstream,cytokine,1.937,2.157,2.157
+Functional,Transport of taurocholic acid,2.354,2.156,2.156
+Functional,Transport of alkyl sulfonic acid,2.354,2.156,2.156
+Functional,Release of neurotransmitter,1.479,2.14,1.902
+Upstream,NR4A3,1.387,2.138,1.664
+Upstream,BDNF,0.605,2.138,
+Upstream,NFkB (family),,2.128,1.91
+Upstream,THRB,1.528,2.124,2.015
+Upstream,CNTF,,2.123,2.15
+Functional,Hyperlipoproteinemia,1.633,2.121,1.633
+Canonical,Neuroprotective Role of THOP1 in Alzheimer's Disease,1.342,2.121,1.342
+Canonical,Synaptic Long Term Depression,1.342,2.121,1
+Functional,Cleavage of protein fragment,1.605,2.11,1.859
+Functional,Generation of reactive oxygen species,1.285,2.099,1.198
+Functional,Cognition,,2.096,
+Functional,Phagocytosis of neutrophils,1.204,2.09,1.857
+Upstream,IL1B,1.429,2.086,2.473
+Functional,Uptake of bile acids and salt derivative,2.554,2.081,2.353
+Upstream,IL6,2.283,2.079,2.582
+Upstream,NCOA1,1.998,2.077,2.233
+Upstream,CEBPD,1.575,2.075,1.838
+Functional,Transport of ion,2.159,2.065,2.08
+Functional,Cellular infiltration by macrophages,,2.065,2.333
+Upstream,SMAD3,1.388,2.057,2.533
+Functional,Quantity of connective tissue,1.061,2.05,1.852
+Functional,Activation of neuroglia,0.833,2.037,1.515
+Functional,Intrathoracic malignant tumor,,2.036,
+Functional,Cellular infiltration by phagocytes,,2.028,1.989
+Functional,Proteolysis,0.892,2.02,1.597
+Functional,Concentration of phospholipid,1.438,2.019,1.205
+Functional,Secretory pathway,,2.016,
+Functional,Exocytosis,,2.016,
+Functional,Metabolism of terpenoid,1.975,2.015,1.895
+Functional,Development of abdomen,1.999,2.008,1.999
+Upstream,FMO3,2,2,2.236
+Upstream,LUCAT1,2,2,2.236
+Functional,Uptake of ibuprofen,2,2,2
+Functional,Uptake of ketoprofen,2,2,2
+Upstream,STAT,2,2,2
+Upstream,LINC02574,2,2,2
+Upstream,CLEC12A,2,2,2
+Upstream,KLF7,2,2,2
+Upstream,C/EBP,2,2,2
+Upstream,ETNPPL,2,2,2
+Canonical,Surfactant metabolism,2,2,2
+Functional,Lung cancer,1.949,2,2.377
+Functional,Malignant neoplasm of respiratory system,1.949,2,2.377
+Upstream,GCR/glucocorticoid dimer,,2,2
+Upstream,BLK,,2,2
+Upstream,ZNFX1,,2,2
+Upstream,FCGR2A,,2,2
+Canonical,Role of Hypercytokinemia/hyperchemokinemia in the Pathogenesis of Influenza,,2,2
+Canonical,PKR-mediated signaling,,2,2
+Canonical,DDX58/IFIH1-mediated induction of interferon-alpha/beta,,2,2
+Canonical,OAS antiviral response,,2,2
+Canonical,Cytoprotection by HMOX1,,2,2
+Canonical,Prednisone ADME,,2,2
+Functional,Accumulation of cisplatin,,2,
+Upstream,IFN lambda,,2,
+Upstream,HDL/cholesterol,,2,
+Upstream,Bvht,,2,
+Upstream,PEBP1,,2,
+Upstream,ZFP36L2,,2,
+Upstream,MSX2,,2,
+Canonical,Insulin processing,,2,
+Canonical,Retinol Biosynthesis,,2,
+Canonical,Phospholipases,,2,
+Canonical,Paracetamol ADME,,2,
+Canonical,Superpathway of Citrulline Metabolism,,2,
+Canonical,Role of MAPK Signaling in Inhibiting the Pathogenesis of Influenza,,2,
+Canonical,Phenylalanine and tyrosine metabolism,,2,
+Canonical,Gap junction trafficking and regulation,,2,
+Canonical,Tryptophan Degradation III (Eukaryotic),,2,
+Upstream,C3,1.987,1.998,1.536
+Functional,Biliary excretion of lipid,2.226,1.996,
+Upstream,THPO,1.477,1.992,1.732
+Functional,Flux of ion,1.292,1.989,2.393
+Upstream,NR5A1,,1.989,
+Upstream,STAT3,1.493,1.988,1.747
+Upstream,OSMR,1.982,1.982,1.982
+Functional,Uptake of estrogen,,1.982,1.982
+Upstream,SOX17,,1.982,
+Functional,Catabolism of amino acids,1.98,1.98,1.98
+Upstream,STK4,1.98,1.98,1.98
+Upstream,ACOX1,1.772,1.976,1.648
+Functional,Cytolysis,,1.971,
+Upstream,KMT2A,,1.97,
+Upstream,PPAR,1.969,1.969,1.969
+Functional,Transport of vitamin,,1.969,
+Upstream,nuclear factor 1,,1.969,
+Upstream,SMAD1,,1.969,
+Upstream,NFKBIA,2.183,1.967,
+Functional,Quantity of adipose tissue,1.586,1.966,2.448
+Upstream,RXR/VDR/vitamin D3,1.982,1.964,1.387
+Upstream,FOXI1,,1.964,
+Functional,Contraction of blood vessel,,1.963,1.201
+Functional,Metabolism of alpha-amino acid,1.961,1.961,1.961
+Upstream,ELF4,,1.961,
+Upstream,TMEM120A,1.96,1.96,1.96
+Functional,Metabolism of vitamin,,1.96,1.96
+Upstream,PAX8,,1.96,
+Functional,Receptor-mediated endocytosis,,1.958,1.555
+Functional,Uptake of bile acid,1.957,1.957,1.957
+Upstream,RORA,1.957,1.957,1.957
+Functional,Uptake of taurocholic acid,1.954,1.954,1.954
+Upstream,LEP,1.714,1.954,1.158
+Upstream,PLAAT4,,1.953,1.953
+Upstream,NEUROG3,,1.953,
+Upstream,PAX2,,1.949,
+Upstream,ADIPOQ,3.014,1.948,1.649
+Upstream,IRF2,1.947,1.947,1.947
+Upstream,FGF1,,1.947,
+Functional,Transport of synaptic vesicles,,1.946,
+Functional,Biliary excretion of cholesterol,1.944,1.944,1.944
+Upstream,NFIX,,1.944,
+Upstream,RARA/RXRA/rar ligand/retinoic acid,,1.944,
+Upstream,GATA4,1.802,1.943,2.231
+Canonical,Coagulation System,1.508,1.941,1.732
+Upstream,HOXD10,1.387,1.941,1.706
+Upstream,EGOT,1.342,1.941,1.671
+Functional,Progressive neuromuscular disease,,1.941,
+Functional,Neuromuscular disease with neuropathy,,1.941,
+Upstream,NR3C2,,1.941,
+Functional,Synthesis of nitric oxide,,1.914,2.102
+Functional,Flux of inorganic cation,1.338,1.905,2.466
+Functional,Quantity of carbohydrate,1.6,1.898,1.484
+Canonical,cAMP-mediated signaling,2.236,1.897,2.236
+Upstream,PARP9,2.449,1.89,2.449
+Upstream,MSC,2.236,1.89,2.449
+Canonical,Oxytocin in Brain Signaling Pathway,1.89,1.89,1
+Upstream,NCOR/LXR/RXR/oxysterol/9 cis RA,1.633,1.89,1.633
+Canonical,NR1H2 and NR1H3-mediated signaling,1.633,1.89,1.633
+Functional,Hypercholesterolemia,1.342,1.89,1.342
+Functional,Dyslipidemia,1.449,1.882,1.858
+Functional,Uptake of bile salt,2.391,1.879,2.174
+Functional,Uptake of anion,1.657,1.863,1.657
+Upstream,RXRA,1.31,1.848,0.593
+Upstream,TCR (complex),,1.843,
+Functional,Development of body trunk,1.705,1.824,1.442
+Upstream,NR5A2,2.519,1.788,1.811
+Upstream,ADORA2A,,1.784,1.069
+Upstream,PRKCA,1.31,1.782,1.782
+Functional,Lipolysis,2.456,1.781,2.488
+Upstream,IL22,,1.775,1.475
+Upstream,EP300,,1.769,1.789
+Upstream,NR3C1,1.474,1.766,1.926
+Functional,Progressive motor neuropathy,,1.765,
+Functional,Progressive neuropathy,,1.765,
+Functional,Quantity of protein lipid complex in blood,1.744,1.761,1.653
+Upstream,PI3K (family),,1.756,1.756
+Functional,Transport of inorganic cation,2.201,1.754,2.065
+Functional,Onset of autoimmune disease,,1.751,1.446
+Upstream,ESRRG,1.452,1.744,1.762
+Upstream,S100A9,1.89,1.742,2.043
+Functional,Flux of cation,1.128,1.733,2.255
+Upstream,PTGES,,1.732,
+Upstream,CD36,1.445,1.729,1.445
+Upstream,F2,1.4,1.727,2.073
+Upstream,CSF1,,1.727,1.223
+Functional,Inflammation of joint,0.751,1.72,1.409
+Functional,Transport of amine,1.505,1.717,1.505
+Functional,Concentration of hormone,1.528,1.714,1.753
+Functional,Contraction of artery,,1.709,0.784
+Functional,Binding of leukocytes,1.101,1.696,1.84
+Functional,Synthesis of acylglycerol,0.788,1.696,1.49
+Functional,Musculoskeletal lesion,0.437,1.693,1.38
+Functional,Concentration of lipid,0.873,1.689,1.084
+Functional,Influx of inorganic cation,1.243,1.678,2.255
+Upstream,NLRP3,,1.671,
+Canonical,Neuroinflammation Signaling Pathway,0.816,1.667,1.633
+Functional,Hyperlipidemia,1.25,1.666,1.681
+Functional,Uptake of bacteria,1,1.664,1.664
+Upstream,CASR,,1.664,
+Upstream,KAT6A,,1.664,
+Upstream,FGF2,,1.66,
+Functional,Binding of tumor cell lines,1.162,1.651,1.627
+Upstream,PKC,,1.633,1
+Upstream,PIAS1,,1.633,
+Upstream,DIO2,,1.633,
+Functional,Steroid metabolism,1.537,1.632,1.483
+Upstream,IL1,0.558,1.63,1.333
+Upstream,PF4,1.987,1.6,1.363
+Functional,Quantity of phagocytes,,1.596,2.028
+Functional,Systemic autoimmune syndrome,,1.596,1.103
+Upstream,BMP2,,1.59,
+Functional,Transport of metal ion,2.01,1.586,1.878
+Upstream,SOX4,,1.585,
+Functional,Survival of organism,2.09,1.576,1.063
+Upstream,LEPR,1.934,1.574,0.536
+Functional,Cholesterol transport,1.633,1.556,1.462
+Functional,Flux of Ca2+,1.099,1.547,2.103
+Functional,Transport of monovalent inorganic cation,1.741,1.539,1.741
+Functional,Transport of Na+,1.214,1.536,1.214
+Upstream,LCN2,,1.536,
+Upstream,POU2AF1,1.452,1.534,1.452
+Functional,Infection by DNA virus,1.082,1.531,0.713
+Functional,Function of kidney,1.528,1.528,1.528
+Functional,Aortic occlusive disease,1,1.527,1.728
+Functional,Aortic atherosclerosis,1,1.527,1.728
+Functional,Accumulation of cyclic AMP,0.524,1.527,1.104
+Upstream,NR1H3,0.688,1.519,1.007
+Upstream,TLR4,1.841,1.51,2.063
+Upstream,SND1,1.134,1.508,0.816
+Upstream,ERG,,1.508,
+Functional,Onset of experimental autoimmune encephalomyelitis,,1.506,1.154
+Upstream,CRH,,1.493,
+Functional,Relaxation of blood vessel,,1.478,
+Functional,Development of urinary tract,2.035,1.466,2.035
+Functional,Formation of kidney,2.035,1.466,2.035
+Upstream,ONECUT1,,1.466,
+Functional,Binding of lipopolysaccharide,1.94,1.459,1.94
+Upstream,growth hormone,1.003,1.456,1.662
+Functional,Catabolism of acylglycerol,1.455,1.455,1.455
+Functional,Catabolism of triacylglycerol,1.455,1.455,1.455
+Upstream,HDAC5,,1.455,0.849
+Functional,Concentration of choline-phospholipid,0.889,1.453,0.889
+Functional,Disorder of lipid metabolism,0.932,1.451,1.36
+Functional,Abnormal metabolism,0.932,1.451,1.36
+Upstream,SIRT6,0.339,1.446,1
+Upstream,GATA6,1.055,1.432,1.055
+Upstream,NGF,,1.431,2.599
+Functional,Infarction,0.984,1.426,1.549
+Functional,Formation of reactive oxygen species,,1.426,0.719
+Canonical,NAFLD Signaling Pathway,0.447,1.414,1.134
+Functional,Infiltration by neutrophils,,1.409,1.284
+Functional,Neurotransmission,,1.407,
+Upstream,pro-inflammatory cytokine,,1.4,1.091
+Functional,Hemostasis,1.022,1.398,1.399
+Upstream,NEUROD1,,1.398,
+Functional,Dysmyelination,,1.397,
+Functional,Concentration of D-glucose,0.991,1.396,1.057
+Upstream,PTH1R,1.214,1.38,
+Functional,Secretion of cholesterol,1.378,1.378,1.378
+Functional,Quantity of retinoid,1.009,1.377,1.009
+Upstream,CX3CL1,2.236,1.37,1.673
+Upstream,SOX2,,1.369,
+Upstream,USF1,1.089,1.368,1.089
+Functional,Activation of microglia,0.365,1.36,1.079
+Upstream,CDX2,0.889,1.348,1.362
+Upstream,ABCA1,1.015,1.346,1.015
+Functional,Infection by RNA virus,0.552,1.346,0.489
+Upstream,FDFT1,2,1.342,2
+Upstream,AIRE,1,1.342,1
+Upstream,PIK3CG,,1.342,
+Upstream,FGF21,1.338,1.338,1.609
+Functional,Skin lesion,,1.293,0.24
+Canonical,Acute Phase Response Signaling,0.832,1.291,1.069
+Functional,Myocardial infarction,1.4,1.29,1.29
+Upstream,ADCYAP1,0.478,1.29,
+Functional,Metabolism of sterol,0.728,1.289,1.091
+Functional,Excretion of lipid,1.565,1.286,0.99
+Upstream,FGF19,0.707,1.285,0.707
+Functional,Progressive neurological disorder,,1.278,1.278
+Upstream,SGPL1,1.446,1.276,1.706
+Functional,Relaxation of artery,1.241,1.273,0.451
+Functional,Synthesis of triacylglycerol,0.128,1.27,1.034
+Functional,Quantity of monosaccharide,0.806,1.267,0.895
+Upstream,PEX5,0.816,1.265,1
+Functional,Demyelination,,1.261,
+Upstream,PTF1A,0.958,1.253,
+Functional,Synthesis of terpenoid,1.38,1.251,0.948
+Functional,Secretion of triacylglycerol,1.362,1.25,1.25
+Upstream,MECP2,0.6,1.25,
+Functional,Neoplasia of cells,0.88,1.246,1.7
+Functional,Quantity of polyunsaturated fatty acids,,1.244,
+Upstream,RARB,0.426,1.237,0.113
+Upstream,Asgr1,,1.236,
+Functional,Transport of metal,0.989,1.233,1.237
+Functional,Acute lung injury,1.394,1.224,1.636
+Functional,Acute respiratory disorder,1.394,1.224,1.636
+Functional,Binding of endothelial cells,1.301,1.224,0.951
+Upstream,JNK,,1.224,1.756
+Functional,Cellular infiltration by myeloid cells,0.217,1.215,1.239
+Functional,Hemolysis,,1.206,
+Functional,Coagulation of plasma,0.842,1.203,0.842
+Functional,Lung injury,1.07,1.202,1.066
+Functional,Discomfort,,1.195,
+Upstream,POMC,1.174,1.192,1.384
+Upstream,ARNT,,1.192,
+Upstream,KLRK1,,1.192,
+Upstream,PDX1,1.264,1.191,
+Upstream,S100A8,1.89,1.188,1.484
+Upstream,MAPK,,1.172,
+Functional,Adhesion of immune cells,0.843,1.17,1.294
+Functional,Concentration of phosphatidylcholine,0.491,1.167,0.491
+Functional,Non-traumatic arthropathy,,1.165,
+Functional,Damage of lung,1.012,1.159,1.019
+Functional,Catabolism of carbohydrate,,1.154,
+Upstream,WNT4,,1.154,
+Upstream,ELAVL1,,1.152,2.359
+Upstream,TNF (family),-1,1.151,0.997
+Functional,Hematopoietic neoplasm,,1.151,
+Upstream,RELA,0.209,1.14,0.828
+Functional,Occlusion of artery,-0.365,1.136,0.358
+Upstream,EHMT2,,1.134,1.342
+Upstream,DSCAML1,,1.134,0
+Upstream,DSCAM,,1.134,
+Functional,Migration of eosinophils,1.96,1.132,1.132
+Upstream,STK3,,1.131,
+Upstream,TET3,,1.118,
+Functional,Quantity of superoxide,0.592,1.099,0.978
+Upstream,NR1H2,0.539,1.099,0.866
+Functional,Lymphohematopoietic neoplasia,,1.098,
+Upstream,SMPD1,,1.095,0.655
+Functional,Occlusion of blood vessel,-0.421,1.093,0.308
+Upstream,PPARA,1.184,1.086,0.646
+Upstream,NR4A1,0.267,1.075,-0.162
+Upstream,BMP6,,1.074,
+Upstream,FOXA2,0.354,1.07,0.158
+Functional,Cholestasis,,1.067,
+Functional,Ischemia of brain,,1.067,
+Upstream,FOXA3,,1.067,
+Functional,Transport of anion,0.684,1.046,0.684
+Functional,Synthesis of sterol,0.485,1.044,0.798
+Functional,Chronic inflammatory disorder,,1.016,
+Upstream,AKT1,,1.015,1.015
+Functional,Binding of professional phagocytic cells,0.649,1.007,1.007
+Functional,Quantity of steroid,0.336,1.007,0.752
+Functional,Concentration of eicosanoid,,1.001,
+Canonical,Complement System,0,1,1.633
+Upstream,SMAD2,,1,1.091
+Upstream,GRB2,,1,
+Upstream,PLAT,,1,
+Upstream,DHX9,,1,
+Upstream,PTGER3,,1,
+Upstream,AVP,,0.996,
+Functional,Vaso-occlusion,-0.579,0.989,0.203
+Functional,Binding of lipid,1.988,0.977,1.304
+Functional,Cellular infiltration by granulocytes,,0.97,0.988
+Functional,Quantity of monoamines,0.566,0.961,1.105
+Functional,Concentration of retinol,,0.958,
+Upstream,MCOLN1,,0.956,
+Upstream,NR1I3,0.522,0.954,0.522
+Functional,Binding of blood cells,0.39,0.948,1.033
+Functional,Concentration of fatty acid,0.679,0.931,0.559
+Functional,Concentration of sterol,0.03,0.93,0.647
+Upstream,JUNB,,0.927,0.577
+Upstream,MTOR,,0.924,0.213
+Functional,Cerebrovascular dysfunction,0.442,0.921,1
+Functional,Neuromuscular disease,,0.921,1.941
+Upstream,PKA,0,0.914,0.256
+Functional,Quantity of blood cells,,0.914,1.57
+Functional,Cellular infiltration by leukocytes,0.413,0.91,1.486
+Upstream,BICD2,,0.908,0.908
+Functional,Concentration of cholesterol,0.129,0.9,0.599
+Upstream,BRCA1,0.948,0.894,0.59
+Functional,Damage of kidney,0.177,0.873,1.15
+Functional,Atherosclerosis,-0.524,0.871,0.057
+Upstream,METTL3,0.135,0.866,-0.042
+Upstream,HDAC,2,0.862,
+Functional,Peripheral vascular disease,0.105,0.857,0.67
+Functional,Aggregation of cells,0.343,0.855,0.298
+Upstream,HTT,0.2,0.849,0.2
+Upstream,BMP,,0.849,
+Upstream,ARID4B,,0.849,
+Functional,Viral Infection,-0.346,0.846,-0.988
+Upstream,insulin,-1.014,0.845,-0.638
+Functional,Secretion of steroid,2.032,0.837,1.24
+Upstream,RICTOR,0.564,0.836,0.564
+Upstream,PROX1,,0.831,
+Upstream,P2RY2,0.422,0.83,0.83
+Functional,Diabetes mellitus,1,0.822,0.447
+Upstream,IL6ST,1.342,0.816,1.342
+Upstream,AR,1.466,0.806,0.979
+Functional,Immune mediated inflammatory disease,-0.251,0.795,-0.529
+Functional,Generation of superoxide,,0.785,0.052
+Functional,Blood clot,0.277,0.782,0.899
+Functional,Quantity of intermediate filaments,0.781,0.781,0.781
+Functional,Proliferation of epithelial cells,-0.105,0.779,0.21
+Functional,Quantity of myeloid cells,,0.776,1.744
+Upstream,NR2F2,,0.776,0.339
+Functional,Excretion of sterol,1.115,0.771,0.771
+Functional,Cellular infiltration,0.218,0.77,1.314
+Functional,Injury of nervous system,,0.767,
+Functional,Vasodilation of heart,,0.762,
+Upstream,FGFR2,0.728,0.759,0.366
+Upstream,FABP1,1.109,0.748,0.748
+Functional,Synthesis of steroid,0.804,0.739,0.385
+Upstream,CD274,0.734,0.734,0.734
+Upstream,CDX1,0.391,0.728,1.067
+Upstream,ARL6IP1,,0.728,0.277
+Functional,Metabolism of cholesterol,0.391,0.726,0.391
+Functional,Synthesis of cholesterol,0.391,0.726,
+Functional,Mass of organism,0.799,0.724,0.819
+Functional,Esterification of lipid,1.131,0.713,1.082
+Functional,Transmembrane transport of ion,0,0.707,
+Upstream,C1QA,,0.702,1.05
+Functional,Conversion of lipid,0.724,0.701,0.721
+Functional,Formation of superoxide,0.218,0.692,0.218
+Upstream,TARDBP,,0.692,0.152
+Upstream,NFE2L2,-0.277,0.688,0.101
+Functional,Cancer of cells,0.701,0.684,1.721
+Functional,Transport of inorganic anion,0.388,0.684,0.388
+Functional,Quantity of anion,-0.616,0.683,-0.336
+Functional,Opsonization,0.218,0.68,0.411
+Functional,Damage of urinary system,-0.041,0.68,0.946
+Functional,Systolic pressure,,0.671,
+Upstream,PPARG,1.434,0.663,1.18
+Upstream,SATB2,,0.651,
+Functional,Interaction of blood platelets,0.693,0.649,0.649
+Upstream,TRH,,0.632,
+Functional,Weight gain,-0.14,0.625,0.464
+Functional,Hematologic cancer of cells,,0.614,
+Functional,Binding of myeloid cells,0.239,0.605,0.605
+Functional,Nervous system neoplasm,,0.6,
+Functional,Thrombus,0.277,0.596,0.899
+Upstream,LPL,,0.577,1.067
+Functional,Myocardial dysfunction,1.115,0.575,1.947
+Functional,Hematological or lymphatic system tumor,0.411,0.569,0.581
+Upstream,PTPN1,,0.555,0.152
+Functional,Transport of K+,,0.555,
+Upstream,GIP,,0.555,
+Functional,Quantity of ldl cholesterol in blood,0.099,0.554,0.099
+Functional,Quantity of catecholamine,,0.553,
+Upstream,IL10RA,1.508,0.535,0.832
+Upstream,AGER,,0.529,-0.762
+Upstream,EOMES,,0.522,
+Upstream,MAT1A,0.512,0.512,0.512
+Upstream,NCOR2,0.816,0.493,-0.186
+Functional,Injury of central nervous system,,0.483,
+Functional,Brain damage,,0.483,
+Functional,Disease of retina,,0.481,-0.115
+Upstream,PRDM1,0.397,0.453,0.372
+Functional,Quantity of reactive oxygen species,-0.068,0.448,0.78
+Upstream,MED13,,0.447,0
+Functional,Central nervous system solid tumor,,0.447,
+Upstream,RTN4,,0.447,
+Upstream,FGFR4,,0.447,
+Functional,Quantity of neurotransmitter,-0.076,0.445,0.345
+Upstream,RETN,,0.44,1.091
+Functional,Quantity of amino acids,-0.153,0.439,-0.047
+Functional,Quantity of protein in blood,1.341,0.428,1.109
+Functional,Injury of kidney,0.157,0.424,0.768
+Functional,Accumulation of sterol,,0.421,
+Upstream,TET2,-0.788,0.409,0.216
+Functional,Pelvic tumor,0.254,0.406,1.06
+Upstream,MYRF,,0.398,-0.585
+Functional,Neoplasia of blood cells,,0.396,0.676
+Functional,Blood pressure,1.241,0.395,1.138
+Upstream,CLOCK,,0.378,0.816
+Functional,Insulin resistance,,0.376,0.7
+Functional,Reverse cholesterol transport,0.372,0.372,0.372
+Functional,Excretion of bile acid,0.9,0.343,0.343
+Upstream,TRIM28,,0.342,
+Canonical,Bone Mineralization Signaling Pathway,0.378,0.333,0.816
+Upstream,BMP10,0,0.333,0.378
+Functional,Male genital neoplasm,,0.327,
+Functional,Lymphocytic cancer,,0.318,0.991
+Functional,Malignant lymphocytic neoplasm,,0.318,0.991
+Functional,Neoplasia of leukocytes,,0.318,
+Functional,Tumorigenesis of lymphocytes,,0.318,
+Upstream,GDNF,,0.313,
+Upstream,MAPK8,-0.148,0.311,0.329
+Functional,Bradycardia,,0.309,1.029
+Functional,Quantity of vitamin,0.712,0.305,0.712
+Functional,Oxidation of lipid,0.777,0.302,0.561
+Upstream,SLC13A1,0.333,0.302,0
+Upstream,OLR1,,0.301,
+Functional,Lymphoid cancer,,0.298,0.881
+Functional,Proliferation of liver cells,-0.626,0.29,0.101
+Functional,Obesity,0.442,0.288,0.042
+Functional,Binding of HMVEC-L cells,,0.283,
+Functional,Binding of cell surface,0.64,0.282,0.588
+Upstream,CXCR3,,0.271,
+Functional,Glucose tolerance,,0.267,
+Upstream,EIF2AK4,,0.246,
+Upstream,ATG5,,0.243,
+Functional,Hematologic cancer,,0.241,0.751
+Functional,Damage of central nervous system,,0.235,
+Functional,Lymphohematopoietic cancer,0.588,0.228,0.693
+Functional,Ventricular dysfunction,,0.218,1.684
+Functional,Aortic arch atheroma,,0.218,
+Upstream,AGTR1,,0.218,
+Functional,Damage of nervous system,,0.215,
+Functional,Accumulation of steroid,-0.456,0.214,-0.137
+Functional,Metabolism of hormone,0.782,0.199,-0.031
+Functional,Cognitive impairment,,0.194,
+Functional,Quantity of Na+,-0.768,0.176,-0.714
+Upstream,USP22,-0.277,0.174,-0.6
+Functional,Myeloid or lymphoid neoplasm,,0.165,0.389
+Functional,Secretion of catecholamine,,0.16,
+Functional,Inflammation of muscle,,0.152,
+Upstream,BACE1,,0.152,
+Upstream,SUMO2,,0.152,
+Functional,Long-term potentiation,,0.134,
+Upstream,DICER1,,0.126,
+Functional,Hypertriglyceridemia,0.411,0.12,0.742
+Functional,Noncardiac thoracic lesion,0.246,0.087,0.338
+Functional,Aggregation of blood cells,-0.176,0.062,-0.196
+Functional,Lymphoproliferative disorder,,0.047,0.588
+Functional,Lung lesion,0.191,0.041,0.285
+Upstream,SNCA,-0.397,0.036,0.043
+Functional,Genital tumor,0.254,0.024,1.06
+Upstream,PDLIM2,1,0,1
+Upstream,HSP70,0.447,0,0.447
+Canonical,WNK Renal Signaling Pathway,0.447,0,0.447
+Upstream,CDCA8,0.378,0,0.378
+Upstream,ZBTB20,0.378,0,0
+Canonical,PXR/RXR Activation,0.378,0,0
+Upstream,NGEF,-0.378,0,-0.378
+Upstream,JUND,,0,0.391
+Functional,Homeostasis of metal ion,,0,0
+Functional,Response of vascular smooth muscle cells,,0,0
+Functional,Homeostasis of divalent cations,,0,0
+Upstream,POR,,0,0
+Upstream,HVCN1,,0,0
+Functional,Epilepsy,,0,
+Upstream,S1PR4,,0,
+Upstream,RANBP3L,,0,
+Upstream,OXT,,0,
+Canonical,VDR/RXR Activation,,0,
+Functional,Albuminuria,,-0.022,1.46
+Functional,Concentration of triacylglycerol,0.056,-0.027,0.046
+Functional,Concentration of acylglycerol,,-0.044,
+Functional,Apoptosis of renal tubule,,-0.047,0.822
+Upstream,SQSTM1,,-0.056,-0.651
+Upstream,HFE,0.223,-0.061,-0.35
+Functional,Nephromegaly,1.207,-0.092,0.47
+Upstream,SERPINE1,-1.067,-0.128,-1.387
+Upstream,mir-29 (includes others),,-0.128,
+Functional,Size of lesion,0.014,-0.138,0.032
+Functional,Hypertrophy of kidney,,-0.138,0.431
+Functional,Lymphoreticular neoplasm,,-0.141,0.249
+Upstream,CRHR1,,-0.152,-0.152
+Functional,Endocrine gland tumor,,-0.152,
+Functional,Thoracic carcinoma,,-0.156,
+Functional,Lung carcinoma,,-0.156,
+Functional,Aggregation of blood platelets,-0.176,-0.163,-0.494
+Functional,Acute disease,-0.457,-0.18,-0.074
+Functional,Abnormality of heart ventricle,,-0.187,1.568
+Upstream,POU4F1,,-0.2,
+Upstream,MST1,,-0.2,
+Upstream,NPY,0.243,-0.218,0.243
+Functional,Breast or ovarian neoplasm,-0.007,-0.218,-0.34
+Functional,Anxiety,,-0.221,
+Functional,Mammary tumor,,-0.235,
+Functional,Area of atherosclerotic lesion,-0.87,-0.241,-0.87
+Upstream,BMPER,,-0.246,
+Functional,Lymphatic system tumor,,-0.268,0.411
+Functional,Internalization of lipid,,-0.277,0.152
+Upstream,TGFBR1,,-0.277,0.128
+Functional,Degenerative brain disorder,,-0.277,
+Upstream,FYN,,-0.277,
+Functional,Proteinuria,,-0.293,1.24
+Canonical,LPS/IL-1 Mediated Inhibition of RXR Function,-1,-0.302,-0.333
+Functional,Non rhabdoid tumor,-0.999,-0.303,-0.173
+Upstream,PLCG2,,-0.325,-0.988
+Functional,Malignant solid tumor,-0.584,-0.345,-0.313
+Functional,Deposition of lipid,-0.6,-0.355,-0.355
+Upstream,VDR,-0.904,-0.357,-1.264
+Upstream,IL4,-0.73,-0.358,-0.67
+Functional,Solid tumor,,-0.359,
+Functional,Interaction of protein,-0.361,-0.361,-0.361
+Upstream,SREBF2,-1.109,-0.368,-0.956
+Upstream,INSR,-1.508,-0.368,-1.508
+Upstream,MAFB,-2.236,-0.368,-2
+Upstream,collagen type i (family),-2,-0.369,0.371
+Functional,Left ventricular dysfunction,0.678,-0.37,0.951
+Functional,Opsonization of cells,-1.131,-0.374,-0.374
+Upstream,BSG,-1,-0.378,-1
+Upstream,SUMO3,,-0.391,-1.067
+Functional,Locomotion,,-0.391,
+Upstream,FTO,,-0.396,
+Upstream,LRP5,,-0.412,
+Functional,Cardiomyopathy,0.196,-0.431,0.976
+Upstream,DIO3,-0.707,-0.434,-1.414
+Functional,Connective or soft tissue tumor,,-0.44,0.152
+Upstream,NEDD9,0,-0.447,0
+Upstream,IDH1,-1,-0.447,-1
+Upstream,NAT10,,-0.447,
+Upstream,FBXL6,,-0.447,
+Functional,Shock response,-0.765,-0.46,-0.46
+Functional,Left ventricular heart disease,0.68,-0.466,1.223
+Functional,Abnormality of left ventricle,0.68,-0.466,1.223
+Functional,Atherosclerotic lesion,-1.286,-0.469,-1.215
+Functional,Sclerotic lesion,,-0.469,-1.215
+Upstream,HNRNPU,,-0.478,-1.387
+Functional,Genitourinary tumor,,-0.499,0.249
+Functional,Neurological signs,-0.378,-0.508,-0.213
+Functional,Necrosis of kidney,,-0.524,0.05
+Functional,Phosphaturia,-0.192,-0.537,-0.192
+Functional,Necrosis,0.041,-0.542,-0.77
+Upstream,SCARB1,-0.152,-0.555,-0.152
+Functional,Mineral deficiency,-0.555,-0.555,-0.555
+Functional,Undernutrition,-0.555,-0.555,-0.555
+Upstream,GAL3ST1,,-0.555,
+Upstream,PROC,,-0.555,
+Upstream,LDLR,-2.159,-0.557,-2.159
+Functional,Absorption of lipid,-0.304,-0.562,-0.304
+Upstream,ACE2,,-0.57,
+Functional,Quantity of chloride,-1.446,-0.61,-1
+Functional,Homeostasis of chloride,-1.446,-0.61,
+Upstream,DUSP1,-0.563,-0.625,-0.053
+Functional,Infection by Flaviviridae,,-0.631,
+Upstream,LDB1,,-0.632,
+Functional,Absorption of cholesterol,-0.388,-0.66,-0.388
+Functional,Homeostasis of phosphate,-0.677,-0.677,-0.677
+Functional,Area of lesion,,-0.683,-1.32
+Upstream,MACROH2A1,,-0.686,
+Upstream,UCP1,,-0.707,-0.816
+Functional,Damage of digestive system,-0.551,-0.727,-0.471
+Upstream,IRF8,,-0.728,-0.728
+Functional,Atherogenesis,-0.579,-0.742,-0.742
+Functional,Homeostasis of ion,-0.87,-0.754,-1.036
+Functional,Formation of amyloid fibrils,-0.905,-0.762,
+Functional,Necrosis of renal tubule,-0.509,-0.764,0.176
+Upstream,GATA2,,-0.777,-0.64
+Functional,Septic shock,,-0.813,-0.813
+Functional,Abnormal morphology of liver,-0.447,-0.816,-0.447
+Upstream,FOXP1,,-0.816,-0.794
+Upstream,COL18A1,,-0.816,-1
+Upstream,ZMPSTE24,-0.832,-0.832,-0.832
+Functional,Apoptosis of kidney,,-0.854,-0.266
+Upstream,HAVCR1,,-0.863,
+Upstream,IRS2,-0.962,-0.87,-1.229
+Functional,Homeostasis of anion,-1.578,-0.87,-1.207
+Functional,Edema,-0.138,-0.879,0.357
+Upstream,PTGER4,-0.954,-0.895,-0.954
+Functional,Abnormality of renal cortex,0,-0.896,-0.447
+Upstream,NCOR1,-0.711,-0.898,-1.32
+Functional,Uptake of cholesterol,-0.66,-0.911,-0.66
+Functional,Abnormal morphology of nephron,,-0.928,0.447
+Functional,Arterial lesion,-1.516,-0.956,-1.635
+Upstream,TEK,,-0.956,-1.633
+Upstream,NR1I2,-0.816,-0.959,-0.816
+Functional,Hepatic injury,,-0.987,-0.885
+Upstream,MC1R,-1,-1,-1
+Upstream,DNMT1,,-1,
+Upstream,DMP1,,-1,
+Functional,Liver Damage,-0.594,-1.028,-0.79
+Functional,Size of atherosclerotic lesion,-1.731,-1.052,-1.731
+Functional,Hypotension,,-1.054,
+Functional,Respiratory distress,,-1.067,
+Upstream,GHR,,-1.067,
+Upstream,TRIM21,,-1.067,
+Upstream,MYC,,-1.068,-1.325
+Functional,Development of malignant tumor,-0.451,-1.081,-0.706
+Upstream,KRAS,,-1.086,-1.706
+Functional,Peroxidation of lipid,-0.761,-1.091,-0.956
+Functional,Hypertension,-0.05,-1.116,0.337
+Functional,Accumulation of lipid,-1.029,-1.127,-1.312
+Functional,Progressive encephalopathy,-1.131,-1.131,-1.131
+Upstream,ASCC3,,-1.131,-1.131
+Upstream,ID1,,-1.134,
+Upstream,QKI,-0.563,-1.136,-0.508
+Functional,Non-melanoma solid tumor,,-1.145,
+Upstream,FOXA1,-1.775,-1.159,-2.18
+Upstream,RHOA,,-1.16,
+Upstream,Abcb4,,-1.165,
+Functional,Disorder of blood pressure,-0.061,-1.175,0.349
+Functional,Hepatic steatosis,-1.956,-1.208,-1.816
+Functional,Generation of tumor,-0.163,-1.212,-0.419
+Functional,Focal necrosis,-0.928,-1.219,-1.219
+Functional,Nonhematologic malignant neoplasm,-0.859,-1.239,
+Functional,Ingestion by mice,-1.44,-1.243,
+Functional,Extracranial solid tumor,-0.907,-1.247,-0.892
+Functional,Glucose metabolism disorder,0.353,-1.291,-0.497
+Functional,Ingestion by rodents,-1.487,-1.314,-2.068
+Functional,Malignant neoplasm of retroperitoneum,-1,-1.342,-1
+Functional,Colon cancer,,-1.342,-1
+Upstream,Pick1,,-1.342,
+Functional,Abnormal morphology of nervous system,,-1.373,
+Upstream,PRDM16,-1,-1.387,-1.387
+Functional,Non-central nervous system malignant neoplasm,-0.871,-1.399,-1.127
+Functional,Gastrointestinal tumor,,-1.405,-1.5
+Upstream,CLDN7,-1.342,-1.414,-1.89
+Upstream,GRN,,-1.414,-0.816
+Upstream,MAFA,,-1.414,
+Functional,Incidence of tumor,-1.052,-1.448,-1.184
+Upstream,TGFB1,-2.127,-1.45,-0.534
+Functional,Extraadrenal retroperitoneal tumor,-1.067,-1.452,-1.067
+Upstream,CBFA2T3,,-1.455,
+Functional,Amyloidosis,-1.944,-1.458,-1.944
+Canonical,FXR/RXR Activation,-1.606,-1.46,-2.236
+Upstream,HDAC1,,-1.463,
+Functional,Renal lesion,-0.919,-1.468,-0.931
+Functional,Microcytic anemia,-0.882,-1.471,-1.195
+Functional,Feeding,,-1.473,
+Functional,Sepsis,-1.516,-1.48,-1.369
+Functional,Pulmonary vascular disease,,-1.488,-1.103
+Functional,Systemic inflammatory response syndrome and/or sepsis,-1.536,-1.507,-1.397
+Functional,Concentration of bile acid,-1.233,-1.563,-1.233
+Functional,Carcinoma,-0.619,-1.565,-1.341
+Functional,Lower respiratory tract disorder,,-1.575,-1.686
+Functional,Hepatocellular carcinoma,-1.718,-1.596,-1.718
+Functional,Large intestine neoplasm,-1.51,-1.599,-1.744
+Functional,Colorectal tumor,-1.51,-1.599,-1.744
+Upstream,APOA1,-0.943,-1.6,-1.3
+Canonical,Hematoma Resolution Signaling Pathway,-1.265,-1.604,-1.387
+Upstream,SIRT1,,-1.612,-2.443
+Functional,Frequency of tumor,-0.947,-1.621,-1.312
+Functional,Non-hematological solid tumor,,-1.63,
+Upstream,MEX3A,-2.236,-1.633,-2.646
+Upstream,NPR1,,-1.633,-2.236
+Upstream,NKX2-3,,-1.644,-2.53
+Functional,Breast or colorectal cancer,-0.818,-1.664,-1.387
+Functional,Gastrointestinal tract cancer,-1.067,-1.664,-1.387
+Functional,Colorectal cancer,-1.067,-1.664,-1.387
+Functional,Malignant neoplasm of large intestine,-1.067,-1.664,-1.387
+Functional,Focal necrosis of liver,-1.4,-1.671,-1.671
+Functional,Abnormal morphology of kidney,-0.946,-1.677,-0.798
+Functional,Pancreatic lesion,,-1.702,
+Functional,Colon tumor,-1.195,-1.706,-1.463
+Upstream,NPC1,-0.762,-1.709,-1.109
+Functional,Inflammation of lung,-1.09,-1.712,-1.347
+Functional,Aortic valve disease,,-1.715,
+Functional,Valvulopathy,,-1.715,
+Functional,Interstitial nephritis,,-1.732,-1.732
+Upstream,PSEN1,,-1.772,-1.968
+Functional,End stage renal disease,-1.875,-1.794,-1.794
+Functional,Chronic renal failure,-1.875,-1.794,-1.794
+Functional,Chronic kidney disease,-1.875,-1.794,-1.794
+Functional,Chronic renal impairment,-1.875,-1.794,-1.794
+Functional,Response of liver,-2.287,-1.809,-2.364
+Functional,Hepatobiliary carcinoma,-1.718,-1.813,-1.948
+Functional,Liver carcinoma,-1.718,-1.813,-1.948
+Functional,Abnormal morphology of urinary system,,-1.838,
+Upstream,APOE,-0.699,-1.862,-2.128
+Functional,Weight loss,-2.165,-1.883,-1.863
+Functional,Malignant hepatobiliary neoplasm,-1.778,-1.886,-2.355
+Functional,Hepatobiliary system cancer,-1.778,-1.886,-2.355
+Functional,Liver cancer,-1.778,-1.886,-2.355
+Upstream,KAT2A,,-1.89,
+Functional,Liver tumor,-1.578,-1.892,-2.225
+Functional,Hepatobiliary neoplasm,-1.578,-1.892,-2.225
+Functional,Pancreaticobiliary neoplasm,,-1.96,-1.715
+Upstream,HNRNPK,,-1.964,
+Functional,Concentration of bile salt,-2.2,-1.969,-1.969
+Upstream,PELI2,,-1.992,-1.992
+Functional,Hypercalciuria,-2,-2,-2
+Upstream,RRAS,-2,-2,-2
+Upstream,MDM4,-2,-2,-2
+Canonical,Hepatic Cholestasis,-2.673,-2,-2.496
+Functional,Pancreaticobiliary carcinoma,,-2,
+Functional,Development of adenocarcinoma,,-2,
+Upstream,FKBP10,,-2,
+Upstream,ZNF217,,-2,
+Canonical,Antioxidant Action of Vitamin C,,-2,
+Upstream,MAPK1,-2.891,-2.007,-3.456
+Upstream,SOCS3,-2.129,-2.009,-2.334
+Functional,Paralysis,,-2.021,
+Functional,Lithiasis,-2.054,-2.054,-2.054
+Functional,Formation of solid tumor,-1.37,-2.089,-1.485
+Functional,Fibrosis of kidney,,-2.109,-1.602
+Functional,Inflammation of liver,-2.747,-2.131,-2.77
+Upstream,PRKAA2,,-2.135,
+Functional,Viral life cycle,-2.234,-2.145,-2.972
+Functional,Growth of Staphylococcus aureus,-1.921,-2.156,-1.921
+Upstream,KDM1A,-1.964,-2.16,-2.596
+Upstream,NR0B1,-2.173,-2.173,-2.173
+Upstream,PPP2CA,-2.145,-2.182,-2.145
+Functional,Aminoaciduria,-2.186,-2.186,-2.186
+Upstream,ELOVL5,-1.982,-2.19,-1.172
+Upstream,ATAD3A,-2.19,-2.19,-2.19
+Upstream,DNASE2,,-2.2,-1.974
+Upstream,LINC00624,-1.969,-2.206,-2.206
+Functional,Fibrinolysis,-2.219,-2.219,-2.219
+Functional,Congestive heart failure,,-2.219,
+Functional,Extrapancreatic malignant tumor,-1.746,-2.22,-1.713
+Upstream,PNPT1,-2,-2.236,-2.236
+Upstream,DUSP11,-2.236,-2.236,-2.236
+Upstream,ZNF598,-2.236,-2.236,-2.236
+Upstream,miR-199a-5p (and other miRNAs w/seed CCAGUGU),,-2.236,-2.236
+Functional,Adenocarcinoma,,-2.236,
+Upstream,INSIG1,,-2.236,
+Upstream,FFAR3,,-2.236,
+Functional,Quantity of bilirubin,-1.644,-2.275,-1.644
+Functional,Calcinosis,-2.438,-2.324,-2.102
+Functional,Upper abdominal cancer,-1.777,-2.332,-2.251
+Functional,Replication of viral replicon,,-2.342,-2.976
+Functional,Development of carcinoma,-1.914,-2.359,-2.135
+Upstream,PGR,-1.691,-2.371,-1.638
+Functional,Congenital anomalies of kidney and urinary tract,-1.925,-2.373,
+Upstream,STK11,-1.937,-2.376,-1.937
+Upstream,CPE,,-2.379,
+Functional,Fibrosis of liver,-1.538,-2.386,-1.906
+Upstream,INS,-2.448,-2.397,-2.32
+Functional,Aciduria,-2.4,-2.4,-2.4
+Functional,Abnormal morphology of central nervous system,,-2.401,
+Functional,Crystalluria,-1.982,-2.412,-2.219
+Upstream,BACH2,,-2.414,
+Functional,Development of digestive organ tumor,-2.01,-2.417,-2.201
+Functional,Abdominal carcinoma,-1.984,-2.42,-2.365
+Functional,Hepato-pancreato-biliary cancer,-2.18,-2.421,-2.714
+Functional,Acid-base imbalance,,-2.425,
+Upstream,GAPDH,-2,-2.449,-2.236
+Upstream,ACKR2,-2,-2.449,-2.449
+Upstream,MGA,-2,-2.449,
+Upstream,NRAS,-2.236,-2.449,-1.673
+Upstream,KCNK9,,-2.449,-2
+Functional,Digestive organ tumor,-1.928,-2.466,-2.593
+Functional,Tremor,,-2.557,
+Upstream,NGLY1,-2.169,-2.573,-2.573
+Upstream,miR-145-5p (and other miRNAs w/seed UCCAGUU),-2.208,-2.602,-2.602
+Functional,Tumorigenesis of epithelial neoplasm,-2.175,-2.605,-2.368
+Functional,Formation of epithelial neoplasm,-2.175,-2.605,-2.368
+Upstream,ADAR,-2.433,-2.607,-2.607
+Upstream,SSTR2,,-2.607,-2.2
+Functional,Calcification of kidney,-2.417,-2.615,-2.417
+Functional,Abdominal lesion,,-2.619,
+Upstream,MGP,-2.219,-2.621,-2.219
+Upstream,USP18,-2.219,-2.63,-2.63
+Upstream,RPSA,-2.219,-2.63,-2.63
+Upstream,RACK1,-2.63,-2.63,-2.63
+Upstream,SPRY2,,-2.63,-2.219
+Upstream,Scd2,-2.236,-2.646,-2.646
+Functional,Intraabdominal organ tumor,-2.066,-2.667,-2.469
+Canonical,IL-12 Signaling and Production in Macrophages,-3.464,-2.668,-3.207
+Upstream,FMR1,,-2.672,
+Functional,Liver lesion,-2.371,-2.706,-2.728
+Functional,Abdominal cancer,-1.953,-2.742,-2.526
+Functional,Structural renal abnormality,-2.293,-2.757,-2.302
+Functional,Growth of bacteria,-2.613,-2.795,-2.613
+Upstream,EGLN,-2.8,-2.8,-2.8
+Functional,Digestive system cancer,-2.281,-2.813,-2.9
+Upstream,CD276,-2.236,-2.828,-2.828
+Upstream,IRF2BP2,-2.449,-2.828,-2.646
+Functional,Non-malignant disorder,,-2.882,-2.709
+Upstream,SP110,-2.646,-2.887,-3.317
+Upstream,CISH,,-2.908,-1.908
+Functional,Failure of kidney,-2.598,-2.912,-2.672
+Functional,Quantity of enzyme,,-2.923,-2.356
+Upstream,ISG15,-2.782,-2.947,-2.782
+Upstream,TTC39A-AS1,-2.425,-2.97,-2.97
+Upstream,USP8,-2.433,-2.97,-2.97
+Functional,Colitis,-2.417,-2.98,
+Upstream,TRIM24,-2.433,-2.985,-2.985
+Upstream,IMMT,-2.433,-2.985,-2.985
+Functional,Inflammation of the large intestine,-2.442,-3.012,
+Functional,Abnormality of large intestine,,-3.012,
+Functional,Reduced kidney function,-2.833,-3.118,-2.893
+Functional,Renal impairment,-2.833,-3.118,-2.893
+Functional,Quantity of creatinine in blood,,-3.124,-2.646
+Upstream,SOCS1,-2.818,-3.129,-3.129
+Functional,Abnormal morphology of body cavity,-1.679,-3.168,-1.778
+Functional,Fibrosis,-2.193,-3.175,-2.488
+Upstream,TGFB2,-3.162,-3.207,-2.168
+Upstream,NR0B2,-3.103,-3.223,-3.358
+Functional,Urination disorder,-2.612,-3.224,-2.33
+Upstream,Irgm1,-2.581,-3.235,-3.086
+Functional,Seizure disorder,,-3.267,
+Functional,Abnormal morphology of abdomen,-2.052,-3.309,-2.155
+Upstream,miR-146a-5p (and other miRNAs w/seed GAGAACU),-2.236,-3.434,-2.236
+Functional,Extraintestinal functional disorder,,-3.45,
+Functional,Seizures,,-3.483,
+Functional,Enteritis,-2.895,-3.528,
+Functional,Abnormal abdomen morphology,-2.801,-3.544,-2.916
+Upstream,MEN1,,-3.597,
+Upstream,RC3H1,-3.317,-3.606,-3.606
+Functional,Nephritis,-2.543,-3.607,-3.207
+Functional,Movement disorders,-1.554,-3.63,-0.995
+Functional,Bleeding,-3.423,-3.644,-3.213
+Upstream,miR-182-5p (and other miRNAs w/seed UUGGCAA),-3.568,-3.705,-3.426
+Functional,Inflammation of gastrointestinal tract,-2.895,-3.709,
+Upstream,UBAP1,-3.148,-3.729,-3.729
+Functional,Inflammation of absolute anatomical region,-3.573,-3.734,-2.857
+Functional,Gastroenteritis,-2.895,-3.768,
+Upstream,BANF1,-3.249,-3.789,-3.668
+Upstream,REST,-2.792,-3.796,-2.588
+Functional,Inflammation of organ,-3.551,-3.831,-3.04
+Functional,Infection of mammalia,,-3.844,-3.224
+Functional,Polyuria,-3.274,-3.937,-3.695
+Canonical,GAIT Translation Signaling Pathway,-3.742,-4,-3.742
+Upstream,IL1RN,-3.317,-4.051,-4.111
+Upstream,STAG2,-3.313,-4.12,-4.12
+Upstream,F3,-3.116,-4.15,-4.238
+Upstream,ZNF750,-3.302,-4.221,-4.101
+Upstream,ETV6,-3.546,-4.418,-4.304
+Upstream,RNASEH2B,-3.817,-4.523,-4.523
+Upstream,TREX1,-3.653,-4.57,-4.57
+Upstream,ETV3,-3.873,-4.796,-4.69
+Upstream,IRGM,-3.974,-5.06,-4.859
+Functional,Inflammation of body cavity,-4.289,-5.288,-4.472
+Functional,Organismal death,-6.756,-9.404,-6.72
+Functional,Chemotaxis of myeloid cells,2.929,,3.376
+Functional,Clearance of cells,2.587,,
+Functional,Release of arachidonic acid,2.565,,2.565
+Functional,Phagocytosis of antigen presenting cells,2.537,,2.641
+Functional,Development of genitourinary system,2.459,,2.459
+Functional,Release of steroid,2.372,,
+Functional,Metabolism of eicosanoid,2.349,,
+Functional,Synthesis of eicosanoid,2.339,,2.069
+Functional,Cell movement of monocytes,2.291,,2.675
+Functional,Hydrolysis of lipid,2.18,,2.587
+Functional,Phagocytosis by macrophages,2.148,,2.201
+Functional,Uptake of cells,2,,2.412
+Functional,Transmission of lipid,2,,2
+Upstream,PLG,2,,2
+Functional,Modification of retinaldehyde,2,,
+Upstream,mir-15 (includes others),2,,
+Functional,Translocation of Na+,1.982,,
+Upstream,HNF4G,1.981,,
+Upstream,IL1R1,1.98,,1.98
+Functional,Metabolism of monocarboxylic acid,1.96,,1.96
+Functional,Synthesis of 12-hydroxyeicosatetraenoic acid,1.953,,
+Functional,Secretion of protein,1.89,,
+Functional,Killing of bacteria,1.823,,2.026
+Functional,Transport of carbohydrate,1.747,,2.207
+Functional,Removal of lipid,1.727,,1.222
+Upstream,ATF4,1.725,,2.373
+Functional,Gluconeogenesis,1.7,,1.269
+Functional,Translocation of sterol,1.677,,1.677
+Functional,Immune response of peritoneal macrophages,1.628,,1.628
+Functional,Fibrogenesis,1.43,,
+Upstream,STAT5B,1.414,,1.508
+Functional,Adhesion of endothelial cells,1.403,,
+Functional,Systemic inflammation,1.387,,
+Functional,Recruitment of cells,1.318,,2.025
+Functional,Killing of Streptococcus,1.192,,1.192
+Functional,Release of dopamine,1.183,,
+Upstream,FABP5,1.091,,1.091
+Functional,Influx of cells,1.039,,0.655
+Functional,Size of infarct,1.036,,1.435
+Functional,Clearance of lipid,1.026,,0.597
+Functional,Concentration of phosphatidic acid,1.02,,1.02
+Functional,Binding of epithelial cell lines,0.928,,1.483
+Functional,Growth of kidney,0.885,,1.131
+Functional,Binding of bacteria,0.876,,1.175
+Functional,Quantity of glycogen,0.792,,1.044
+Functional,Synthesis of neurotransmitter,0.784,,0.784
+Functional,Conditioning,0.705,,
+Functional,Concentration of cholesterol ester,0.686,,1.067
+Functional,Release of catecholamine,0.618,,
+Functional,Adhesion of phagocytes,0.526,,0.931
+Functional,Binding of vascular cells,0.514,,
+Functional,Binding of blood platelets,0.473,,0.442
+Upstream,GH1,0.394,,0.394
+Functional,Natriuresis,0.339,,
+Functional,Excretion of Na+,0.303,,
+Functional,Growth of organism,0.302,,0.441
+Functional,Binding of granulocytes,0.288,,0.449
+Functional,Oxidation of fatty acid,0.239,,0.026
+Upstream,ESR1,0.223,,1.025
+Functional,Quantity of aromatic amino acid,0.222,,
+Upstream,IFN gamma,0.192,,0.626
+Functional,Localization of lipid,0.116,,
+Upstream,HOTAIR,0.01,,0.01
+Upstream,estrogen receptor,0,,
+Functional,Accumulation of acylglycerol,-0.121,,-0.717
+Functional,Binding of neutrophils,-0.168,,0.077
+Functional,Emotional behavior,-0.237,,
+Functional,Accumulation of cholesterol,-0.342,,-0.726
+Functional,Malignant genitourinary solid tumor,-0.415,,
+Functional,Quantity of phosphate,-0.677,,
+Functional,Damage of endothelial cells,-1,,
+Upstream,GPR15LG,-1,,
+Functional,Urological disorder of kidney,-1.117,,-0.742
+Functional,Proliferation of hepatocytes,-1.161,,-0.767
+Functional,Hemorrhagic disease,-1.414,,-1.414
+Functional,Disorder of iron metabolism,-1.414,,-1.414
+Functional,Congenital malformation of kidney,-1.925,,
+Upstream,CLPP,-1.969,,-1.969
+Functional,Hydrolysis of protein,-2,,-1.342
+Functional,Atrophy of organ,-2.09,,-2.146
+Functional,Proliferation of E. coli,-2.163,,-2.163
+Functional,Atrophy of kidney,-2.183,,-2.385
+Upstream,CBX5,-2.236,,
+Functional,Bleeding of tissue,-2.619,,-2.619
+Functional,Angiogenesis,,,3.539
+Functional,Vasculogenesis,,,3.209
+Functional,Recruitment of myeloid cells,,,3.003
+Functional,Chemotaxis of neutrophils,,,2.769
+Functional,Migration of vascular cells,,,2.767
+Functional,Recruitment of phagocytes,,,2.501
+Functional,Recruitment of leukocytes,,,2.478
+Upstream,ERK,,,2.383
+Functional,Migration of endothelial cells,,,2.297
+Upstream,NCOA3,,,2.216
+Upstream,C5,,,2.216
+Upstream,PPARGC1B,,,2.213
+Functional,Synthesis of cyclic AMP,,,2.21
+Upstream,IKBKE,,,2.152
+Functional,Cell movement of endothelial cells,,,2.079
+Functional,Catabolism of phospholipid,,,2
+Functional,Uptake of hormone,,,2
+Upstream,G protein alpha i,,,2
+Canonical,Signaling by Retinoic Acid,,,2
+Upstream,IFN alpha/beta,,,1.981
+Upstream,MOGAT1,,,1.98
+Upstream,VEGF,,,1.941
+Upstream,CD40LG,,,1.941
+Functional,Quantity of urea,,,1.912
+Functional,Innate immune response,,,1.746
+Functional,Inactivation of lipid,,,1.71
+Functional,Uptake of monosaccharide,,,1.6
+Functional,Necrosis of epithelial tissue,,,1.577
+Functional,Cell movement of eosinophils,,,1.571
+Functional,Lipolysis of adipose tissue,,,1.474
+Upstream,RAC1,,,1.455
+Functional,Production of reactive oxygen species,,,1.449
+Upstream,ESR2,,,1.407
+Upstream,TNFRSF1B,,,1.387
+Upstream,TAFAZZIN,,,1.383
+Upstream,CYP19A1,,,1.366
+Functional,Accumulation of myeloid cells,,,1.352
+Functional,Accumulation of carbohydrate,,,1.254
+Functional,Damage of vascular system,,,1.137
+Functional,Response of lymphocytes,,,1.131
+Upstream,F2R,,,1.067
+Functional,Hydrolysis of triacylglycerol,,,1.037
+Functional,Dermatitis,,,0.975
+Upstream,PTH,,,0.932
+Functional,Apoptosis of tubular cells,,,0.928
+Functional,Foam cells,,,0.895
+Functional,Binding of embryonic cell lines,,,0.89
+Functional,Binding of kidney cell lines,,,0.886
+Functional,Esterification of cholesterol,,,0.796
+Upstream,LIPE,,,0.762
+Functional,Response of lymphatic system cells,,,0.749
+Functional,Accumulation of polyols,,,0.692
+Functional,Accumulation of macrophages,,,0.647
+Upstream,CXCL12,,,0.626
+Functional,Ischemia of kidney,,,0.447
+Upstream,SRF,,,0.431
+Upstream,ZEB1,,,0.371
+Functional,Anemia,,,0.364
+Functional,Growth of epithelial tissue,,,0.348
+Functional,Production of hydroperoxide,,,0.316
+Upstream,PNPLA2,,,0.302
+Upstream,SMAD7,,,0.259
+Functional,Movement of bone marrow cell lines,,,0.243
+Functional,Malignant connective or soft tissue neoplasm,,,0.152
+Functional,Binding of endothelial cell lines,,,-0.128
+Upstream,mir-21 (includes others),,,-0.213
+Functional,Migration of bone marrow cell lines,,,-0.577
+Upstream,CAT,,,-0.988
+Functional,Necrosis of liver,,,-0.996
+Functional,Accumulation of triacylglycerol,,,-1.013
+Upstream,AMPK,,,-1.187
+Functional,Quantity of lipid peroxide,,,-1.4
+Upstream,IgG,,,-1.473
+Upstream,NFAT5,,,-1.735
+Functional,Interstitial fibrosis of kidney,,,-1.794
+Upstream,miR-21-5p (and other miRNAs w/seed AGCUUAU),,,-1.98
+Functional,Atrophy of renal glomerulus,,,-2
+Upstream,SFTPA1,,,-2
+Upstream,CNOT3,,,-2
+Functional,Apoptosis,,,-2.163
+Upstream,CITED2,,,-2.204
+Functional,Abnormal morphology of small kidney,,,-2.219
+Functional,Pulmonary emphysema,,,-2.228
+Functional,Replication of Hepatitis C virus,,,-2.229
+Functional,Glomerulonephritis,,,-2.4
+Functional,Replication of Flaviviridae,,,-2.431

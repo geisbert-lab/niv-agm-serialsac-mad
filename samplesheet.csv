@@ -1,0 +1,94 @@
+﻿ID,DPI,Timepoint,Tissue,Assay,Experiment,Batch,QC.pass
+sample001,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample002,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample003,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample004,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample005,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample006,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample007,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample008,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample009,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample010,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample011,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample012,0,Baseline,Blood,nanoString,E,Serial sac,TRUE
+sample013,0,Baseline,Blood,nanoString,B,Historical control,TRUE
+sample014,0,Baseline,Blood,nanoString,B,Historical control,TRUE
+sample015,0,Baseline,Blood,nanoString,B,Historical control,TRUE
+sample016,0,Baseline,Blood,nanoString,B,Historical control,TRUE
+sample017,0,Baseline,Blood,nanoString,C,Historical control,TRUE
+sample018,0,Baseline,Blood,nanoString,D,Historical control,TRUE
+sample019,0,Baseline,Blood,nanoString,D,Historical control,TRUE
+sample020,0,Baseline,Blood,nanoString,B,Historical control,TRUE
+sample021,0,Baseline,Blood,nanoString,B,Historical control,TRUE
+sample022,0,Baseline,Blood,nanoString,A,Historical control,TRUE
+sample023,0,Baseline,Blood,nanoString,F,Historical control,TRUE
+sample024,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample025,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample026,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample027,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample028,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample029,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample030,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample031,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample032,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample033,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample034,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample035,3,3 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample036,4,4 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample037,4,4 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample038,4,4 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample039,4,4 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample040,4,4 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample041,4,4 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample042,4,4 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample043,4,4 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample044,4,4 DPI,Blood,nanoString,B,Historical control,TRUE
+sample045,4,4 DPI,Blood,nanoString,B,Historical control,TRUE
+sample046,4,4 DPI,Blood,nanoString,B,Historical control,TRUE
+sample047,4,4 DPI,Blood,nanoString,B,Historical control,TRUE
+sample048,4,4 DPI,Blood,nanoString,C,Historical control,TRUE
+sample049,4,4 DPI,Blood,nanoString,D,Historical control,TRUE
+sample050,4,4 DPI,Blood,nanoString,B,Historical control,TRUE
+sample051,4,4 DPI,Blood,nanoString,B,Historical control,TRUE
+sample052,5,5 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample053,5,5 DPI,Blood,nanoString,E,Serial sac,FALSE
+sample054,5,5 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample055,5,5 DPI,Blood,nanoString,E,Serial sac,TRUE
+sample056,5,5 DPI,Blood,nanoString,D,Historical control,TRUE
+sample057,5,5 DPI,Blood,nanoString,A,Historical control,TRUE
+sample058,5,5 DPI,Blood,nanoString,F,Historical control,TRUE
+sample059,0,Baseline,Lung,RNA-seq,G,Naïve ,TRUE
+sample060,0,Baseline,Lung,RNA-seq,G,Naïve ,TRUE
+sample061,0,Baseline,Lung,RNA-seq,G,Naïve ,TRUE
+sample062,0,Baseline,Lung,RNA-seq,G,Naïve ,TRUE
+sample063,0,Baseline,Lung,RNA-seq,G,Naïve ,TRUE
+sample064,3,3 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample065,3,3 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample066,3,3 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample067,3,3 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample068,4,4 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample069,4,4 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample070,4,4 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample071,4,4 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample072,5,5 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample073,5,5 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample074,5,5 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample075,5,5 DPI,Lung,RNA-seq,E,Serial sac,TRUE
+sample076,0,Baseline,Tonsil,RNA-seq,G,Naïve ,TRUE
+sample077,0,Baseline,Tonsil,RNA-seq,G,Naïve ,TRUE
+sample078,0,Baseline,Tonsil,RNA-seq,G,Naïve ,TRUE
+sample079,0,Baseline,Tonsil,RNA-seq,G,Naïve ,TRUE
+sample080,0,Baseline,Tonsil,RNA-seq,G,Naïve ,TRUE
+sample081,0,Baseline,Tonsil,RNA-seq,G,Naïve ,TRUE
+sample082,3,3 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample083,3,3 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample084,3,3 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample085,3,3 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample086,4,4 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample087,4,4 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample088,4,4 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample089,4,4 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample090,5,5 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample091,5,5 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample092,5,5 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
+sample093,5,5 DPI,Tonsil,RNA-seq,E,Serial sac,TRUE
