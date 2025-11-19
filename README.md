@@ -6,7 +6,7 @@
 
 Raw files are available via NCBI GEO.
 - **[`GSE309971`](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE309971):** Nanostring nCounter RCC files 
-- **[`GEO TBD`](linktbd):** RNA-seq FASTQ files
+- **[`GSE310471`](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE310471):** RNA-seq FASTQ files
 
 Count matrices are available via NCBI GEO or in this repo's `data/` directory.
 
@@ -26,3 +26,4 @@ RNA from tonsil and lung samples homogenized in RLT was used to construct poly-A
 These processing steps were completed via the [Stampede3 supercomputer](https://tacc.utexas.edu/systems/stampede3/). The STAR index was created with `index-star.sh`. Code for alignment and PCR deduplication can be found in `alignment-star.sh`, and quantification code is in `quantification-featurecounts.sh`. Output logs for each job can be found in `logs/`.
 
 Differential expression analyses were performed with DESeq2 v1.49.1 ([PMID 25516281](https://pubmed.ncbi.nlm.nih.gov/25516281/)) in R v4.5.0 by comparing each tissue and time point postinfection to baseline. Genes with an FDR-adjusted p-value and a log2 fold change >2 or <-2 were considered significantly differentially expressed and used as input for [Ingenuity Pathway Analysis](https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa) ([PMID 24336805](https://pubmed.ncbi.nlm.nih.gov/24336805/)). The code for these analyses and figure generation can be found in `analysis.r`.
+
